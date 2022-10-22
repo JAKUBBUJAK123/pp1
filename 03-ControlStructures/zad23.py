@@ -1,0 +1,10 @@
+from timeit import repeat
+from tkinter import N
+
+
+
+for i in range(1,10):
+    for j in range(i):
+        print( i ,end=' ')
+    print("")
+        
