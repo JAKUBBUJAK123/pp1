@@ -30,5 +30,7 @@ arr14 = [[False for i in range(5)] for j in range(2)]
  #   for l in k :
   #      print(l,end=" ")
    # print()
-for k in range(2): 
-    print(arr14[k])
+for row in arr14 :
+    for index in row :
+        print(index, end=" ")
+    print(" ")
