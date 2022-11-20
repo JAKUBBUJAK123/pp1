@@ -8,3 +8,6 @@ for i in arr:
     for row in i :
         print(row , end=" ")
     print(" ")
+
+print(arr[0][2])
+print(arr[1][2])
