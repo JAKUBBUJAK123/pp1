@@ -1,0 +1,11 @@
+{
+ "film name ": "Avengers end game",
+ "heroes": [
+  "spiderMan",
+  "Iron Man",
+  "black panther"
+ ],
+ "villians": "thanos",
+ "film lenght (minutes)": 150,
+ "rating": "9.5/10"
+}
